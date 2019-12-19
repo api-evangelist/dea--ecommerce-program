@@ -1,0 +1,40 @@
+{
+    "name": "DEA - E-Commerce Program",
+    "description": "<p>DEA's Controlled Substance Ordering System allows for electronic orders of controlled substances without the supporting paper form DEA-222. All current information regarding CSOS is available on www.DEAecom.gov. DEA's CSOS program allows for secure electronic controlled substances orders without the supporting paper DEA Form 222. Using a technology called PKI, CSOS requires that each individual purchaser enroll with DEA to acquire a CSOS digital certificate.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/400px-US-DrugEnforcementAdministration-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dea--ecommerce-program\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DEA - E-Commerce Program",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/400px-US-DrugEnforcementAdministration-Seal.svg.png",
+            "humanURL": "http:\/\/www.deaecom.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dea--ecommerce-program-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.deaecom.gov\/developer.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.deaecom.gov\/"
+        }
+    ]
+}
